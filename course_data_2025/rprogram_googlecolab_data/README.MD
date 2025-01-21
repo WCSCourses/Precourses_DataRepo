@@ -1,1 +1,1 @@
-# This folder contains data for R precourse on lMS.
+# This folder contains data for R precourse on LMS.
