@@ -1,35 +1,10 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Add Course Title
+# Data Repository for Linux and R programming Pre-courses on LMS
 
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
 [Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
 
-Add one line description of the course (the same needs to be added on the right side of the page in the description)
-
-### Summary
-
-Add text here
-
-### Target Audience
-
-Add text here
-
-### Learning outcomes
-
-Add text here
-
-### Programme
-
-Add text here
-
-**Course Runs**      
-
-| Course Date | Course Title | Location |Citation DOI |
-|-------------|--------------|----------|-------------|
-| Add Course Run Dates  | [Add Course Run Title](Add Github Repository link) | Location|Citation DOI |
-
-******
 
 ### Citing and Re-using Course Material
 
