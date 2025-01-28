@@ -1,0 +1,4 @@
+Contig1 1.5M
+Contig2 500K
+Contig3 2M
+Contig1 1.5M

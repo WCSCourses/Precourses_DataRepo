@@ -1,0 +1,3 @@
+Protein1  PF00001  5KD  1-70
+Protein2  PF00002  ABC  10-150
+Protein3  PF00003  7KD  20-100

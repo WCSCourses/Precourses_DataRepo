@@ -1,0 +1,4 @@
+Read1 100
+Read3 50
+Read2 150
+Read1 100
