@@ -1,0 +1,6 @@
+>chr1
+AAAAAAA
+>chr2
+TTTTTTT
+>chr3
+GGGGGGG
